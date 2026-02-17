@@ -49,8 +49,9 @@ La résolution se fera en deux temps dont l'ordre est illogique mais parfaitemen
 - d'abord voter le tarif du géomètre si la vente se fait (majorité simple)
 - ensuite voter la vente (majorité des 2/3)
 
-> [!WARNING] 
-> Attention à ne pas vous laisser manipuler par l'ordre fallacieux de ces résolutions. Voter la mission d'un géomètre-expert n'a aucun sens si la vente a été refusée.
+<div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
+Attention à ne pas vous laisser manipuler par l'ordre de ces résolutions. Voter la mission d'un géomètre-expert n'a aucun sens si la vente a été refusée.
+</div>
 
 ### Conséquences évidentes
 
