@@ -66,7 +66,7 @@ Or, le syndic souligne pourtant que :
 Mais il oublie sciemment qu'une fraction non négligeable de ce déficit provient de la vente de box et de places séparés de leur lot d’origine, car ces pratiques ont eu pour conséquences évidentes d'attirer 2x plus de voitures dans la résidence (Cf en conclusion ce que nous proposons pour ce point).
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit **irréversible** et **préjudiciable** à tout résident qui se retrouverait sans solution de stationnement.
+Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit <b>irréversible</b> et <b>préjudiciable</b> à tout résident qui se retrouverait sans solution de stationnement.
 </div>
 
 ### Risque juridique
@@ -115,7 +115,7 @@ Une autorisation supplémentaire n'est donc pas nécessaire.
 Mais le syndic a besoin de cet accord pour faire entrer la police et éventuellement les fouriers. 
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-Présenter cette résolution comme un moyen nécessaire pour assurer « la sécurité des résidents et la prévention des troubles à la tranquillité publique » est donc clairement **fallacieux**. 
+Présenter cette résolution comme un moyen nécessaire pour assurer "la sécurité des résidents et la prévention des troubles à la tranquillité publique" est donc clairement <b>fallacieux</b>. 
 </div>
 
 ---
