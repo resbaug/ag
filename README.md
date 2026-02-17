@@ -18,7 +18,7 @@ La requalification des buanderies en logements, votée lors de la dernière Asse
 
 Certaines buanderies se trouvent sous le seuil d’inondation, et **ne peuvent pas être reconnues comme habitables** (en l’occurrence les buanderies des escaliers 7, 8 et 9, dont la plupart ont déjà été touchées par les inondations en 2016 et en 2021).
 
-### ➤ Le PLU - Plan local d'urbanisme
+### ➤ Le PLU - Plan local d'urbanisme
 
 La reconnaissance des buanderies en tant qu'habitation est considérée comme une création de logement. 
 
@@ -49,9 +49,7 @@ La résolution se fera en deux temps dont l'ordre est illogique mais parfaitemen
 - d'abord voter le tarif du géomètre si la vente se fait (majorité simple)
 - ensuite voter la vente (majorité des 2/3)
 
-> [!IMPORTANT]
-> Attention à ne pas vous laisser manipuler par l'ordre fallacieux de ces résolutions. 
-> Voter la mission d'un géomètre-expert n'aurait de sens que si la vente a été préalablement actée, pas avant.
+:warning: Attention à ne pas vous laisser manipuler par l'ordre fallacieux de ces résolutions. Voter la mission d'un géomètre-expert n'a aucun sens si la vente a été refusée.
 
 ### Conséquences évidentes
 
@@ -65,8 +63,7 @@ Or, le syndic souligne pourtant que :
 
 Mais il oublie sciemment qu'une fraction non négligeable de ce déficit provient de la vente de box et de places séparés de leur lot d’origine, car ces pratiques ont eu pour conséquences évidentes d'attirer 2x plus de voitures dans la résidence (Cf en conclusion ce que nous proposons pour ce point).
 
-> [!IMPORTANT]
-> Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit **irréversible** et **préjudiciable** à tout résident qui se retrouverait sans solution de stationnement.
+:warning: Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit **irréversible** et **préjudiciable** à tout résident qui se retrouverait sans solution de stationnement.
 
 ### Risque juridique
 
