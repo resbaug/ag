@@ -49,7 +49,7 @@ La résolution se fera en deux temps dont l'ordre est illogique mais parfaitemen
 - d'abord voter le tarif du géomètre si la vente se fait (majorité simple)
 - ensuite voter la vente (majorité des 2/3)
 
-:warning: Attention à ne pas vous laisser manipuler par l'ordre fallacieux de ces résolutions. Voter la mission d'un géomètre-expert n'a aucun sens si la vente a été refusée.
+Attention à ne pas vous laisser manipuler par l'ordre fallacieux de ces résolutions. Voter la mission d'un géomètre-expert n'a aucun sens si la vente a été refusée.
 
 ### Conséquences évidentes
 
@@ -63,7 +63,7 @@ Or, le syndic souligne pourtant que :
 
 Mais il oublie sciemment qu'une fraction non négligeable de ce déficit provient de la vente de box et de places séparés de leur lot d’origine, car ces pratiques ont eu pour conséquences évidentes d'attirer 2x plus de voitures dans la résidence (Cf en conclusion ce que nous proposons pour ce point).
 
-:warning: Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit **irréversible** et **préjudiciable** à tout résident qui se retrouverait sans solution de stationnement.
+Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit **irréversible** et **préjudiciable** à tout résident qui se retrouverait sans solution de stationnement.
 
 ### Risque juridique
 
@@ -83,8 +83,8 @@ Présenter uniquement les escaliers 7 et 8 comme problème sécuritaire apparaî
 
 - La conclusion du SDIS évoquée dans la convocation n’a pas été fournie sur l’Intranet, et n’est donc pour l’instant que **spéculative**. 
 - Le règlement du 31 janvier 1986 s'applique aux résidences neuves à partir de 1986. Il n’est pas rétroactif et ne peut donc pas s’appliquer tel quel à une résidence datant de 1970. 
-- L’article L442-1 du Code de la route concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. [URL|https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775]. 
-- De plus, le Code de la Route, tel qu'il est présenté ici, ne s'applique qu'aux voies ouvertes à la circulation publique [URL|https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273]. Il se s'applique **pas** aux résidences privées non ouvertes à la circulation publique.
+- L’article L442-1 du Code de la route concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775). 
+- De plus, le Code de la Route, tel qu'il est présenté ici, ne s'applique qu'aux voies ouvertes à la circulation publique [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273). Il se s'applique **pas** aux résidences privées non ouvertes à la circulation publique.
 
 L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc hautement contestable. 
 
@@ -110,7 +110,7 @@ Une autorisation supplémentaire n'est donc pas nécessaire.
 
 Mais le syndic a besoin de cet accord pour faire entrer la police et éventuellement les fouriers. 
 
-Présenter cette résolution comme un moyen nécessaire pour assurer « la sécurité des résidents et la prévention des troubles à la tranquillité publique » est donc clairement fallacieux. 
+Présenter cette résolution comme un moyen nécessaire pour assurer « la sécurité des résidents et la prévention des troubles à la tranquillité publique » est donc clairement **fallacieux**. 
 
 ---
 
@@ -131,8 +131,6 @@ Une solution que le syndic aurait pu proposer s'il avait voulu résoudre le prob
 > inscrire, dans le Règlement de Copropriété, une préemption par les propriétaires sur la vente ultérieure de tout box ou place. 
 
 Cela permettrait à la copropriété de reconstituer petit à petit son stock de places de stationnement et d’éviter ainsi une nouvelle pénurie future. 
-
-Mais pour celà, il faut chercher à résoudre les problèmes plutôt que de faire plaisir aux membres du CS qui s'agacent des "stationnements sauvages". 
 
 ---
 
