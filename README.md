@@ -26,7 +26,7 @@ Or, tout nouveau logement **impose la création de nouvelles places de parking**
 
 ### Conséquences
 
-En faisant voter la reconnaissance des buanderies en tant qu'habitation, en violation des deux précédentes réglementations, le syndic n’a pas rempli son devoir de conseil et de prudence, alors même que les éléments ci-dessus **ont été portés à sa connaissance à maintes reprises**.
+En faisant voter la reconnaissance des buanderies en tant qu'habitation, en violation des deux précédentes réglementations, le syndic n’a pas rempli son devoir de conseil et de prudence, alors même que les éléments ci-dessus **ont été portés à sa connaissance à maintes reprises** (exemple un courrier de la mairie datant de novembre).
 
 Cette affaire est donc désormais entre les mains d’avocats spécialisés avec les **risques suivants pour la résidence** :
 - annulation judiciaire  
