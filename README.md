@@ -86,7 +86,7 @@ Présenter uniquement les escaliers 7 et 8 comme un problème sécuritaire appar
 - L’article L442-1 du Code de la route concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775). 
 - De plus, le Code de la Route, tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273). Les dispositions de stationnement se s'appliquent **pas** aux résidences privées non ouvertes à la circulation publique comme c'est le cas de notre résidence.
 
-L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc hautement contestable. Le syndic qui en ferait appel se verrait aussitôt attaqué pour abus de pouvoir.
+L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc hautement contestable. 
 
 # En résumé
 
