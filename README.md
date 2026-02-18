@@ -113,8 +113,6 @@ Mais plutôt que de résoudre le déficit, le syndic et le CS proposent :
 
 C’est malhonnête et méprisant car celà oblige des propriétaires déjà lésées à participer plus durement que les autres à la rénovation énergétique **ou** à ne plus pouvoir se garer dans la résidence sans être montrer du doigt. 
 
-Cela permettrait à la copropriété de reconstituer petit à petit son stock de places de stationnement et d’éviter ainsi une nouvelle pénurie future. 
-
 ---
 
 *Document établi dans l’intérêt collectif de la copropriété.*
