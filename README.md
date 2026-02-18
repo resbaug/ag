@@ -78,22 +78,28 @@ En cas d’annulation, les investissements engagés seraient **définitivement p
 
 L’interdiction de stationner en préambule de la résolution n°30 concerne essentiellement les résidents se garant devant escaliers 7 et 8, mais évoque des raisons de sécurité incendie, alors que la difficulté majeure d’accès aux pompiers concerne surtout l’escalier 6 (impossibilité pour un camion pompier d'accéder au bâtiment).
 
-Présenter uniquement les escaliers 7 et 8 comme un problème sécuritaire apparaît incohérent au regard du risque plus important qui pèse sur l'escalier 6. 
+Présenter uniquement les escaliers 7 et 8 comme un problème sécuritaire apparaît **incohérent** au regard du risque plus important qui pèse sur l'escalier 6. 
 
 ### Points problématiques
 
-- La conclusion du SDIS évoquée dans la convocation n’a pas été fournie sur l’Intranet, et n’est donc pour l’instant que **spéculative**. 
-- Le règlement du 31 janvier 1986 s'applique aux résidences neuves à partir de 1986. Il n’est pas rétroactif et ne peut donc pas s’appliquer tel quel à une résidence datant de 1970. 
-- L’article [L442-1 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. 
-- De plus, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique. Les dispositions de stationnement se s'appliquent **pas** aux résidences privées non ouvertes à la circulation publique comme c'est le cas de notre résidence.
+- La conclusion du SDIS évoquée dans la convocation n’a pas été fournie par VAEB (aucune trace sur l’Intranet à date) et n’est donc pour l’instant que **spéculative**.
+- [Le point 17](Article17.png) de l’article 9 du Règlement de Copropriété évoque l'interdiction d'encomber les entrées, les vestibules etc. Les voitures qui sont garées devant les escaliers 7 et 8 ne participent pas à ce type d'encombrement. De plus, l'article 9 interdit à quiconque d'utiliser les ascenseurs pour y monter ses approvisionnements et les ouvriers. Est-ce le cas ?
+- Le règlement du 31 janvier 1986 s'applique aux résidences neuves construites à partir de 1986. Il n’est pas rétroactif et ne peut donc **pas** s’appliquer tel quel à une résidence datant de 1970. La jurisprudence est très claire à ce sujet : [Le Conseil d'État affirme que la non-rétroactivité des actes administratifs est un principe général du droit](https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/commentaire-de-texte/ce-25-juin-1948-societe-journal-aurore-720761.html)
+- L’article [L442-1 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) concerne les dispositions applicables à Mayotte qui n'ont de surcroît rien à voir avec les menaces de mise en fourrière. 
+- De plus, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique. Les dispositions de stationnement se s'appliquent donc **pas** aux résidences privées non ouvertes à la circulation publique (comme c'est le cas de notre résidence).
 
 L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc hautement contestable. 
+Chaque copropriétaire dispose d'un droit de jouissance des parties communes conformément à leur destination. L'article 9 de la [loi du 10 juillet 1965](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051749498) est claire sur ce sujet, et la [partie II du règlement de copropriété](Partie2.png) qualifie ces voies de desserte, pas d'accès sécurité. 
+
+<div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
+En d'autres termes, ne vous laissez pas menacer : n'importe quel résident qui serait ciblé par une telle pratique pourrait porter plainte contre le syndic pour abus de pouvoir / dépassement de mandat / trouble de jouissance. 
+</div>
 
 # En résumé
 
-Il est étonnant que ces résolutions ciblent principalement les résidents n'ayant pas de solution de stationnement au lieu de traiter structurellement le déficit de stationnement.
+Il est étonnant que la résolution n°30 cible principalement les résidents n'ayant pas de solution de stationnement au lieu de traiter structurellement le déficit de stationnement.
 
-S’il y avait suffisamment de places dans la résidence, **personne** ne se garerait sur des voies de desserte.
+S’il y avait suffisamment de places dans la résidence, personne n'aurait à se garer sur des voies de desserte.
 
 Mais plutôt que de résoudre le déficit, le syndic et le CS proposent :
 - de menacer de sanctions les copropriétaires concernés (sans solutionner leur problème)
