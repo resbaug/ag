@@ -84,8 +84,8 @@ Présenter uniquement les escaliers 7 et 8 comme un problème sécuritaire appar
 
 - La conclusion du SDIS évoquée dans la convocation n’a pas été fournie sur l’Intranet, et n’est donc pour l’instant que **spéculative**. 
 - Le règlement du 31 janvier 1986 s'applique aux résidences neuves à partir de 1986. Il n’est pas rétroactif et ne peut donc pas s’appliquer tel quel à une résidence datant de 1970. 
-- L’article L442-1 du Code de la route concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775). 
-- De plus, le Code de la Route, tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique [URL](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273). Les dispositions de stationnement se s'appliquent **pas** aux résidences privées non ouvertes à la circulation publique comme c'est le cas de notre résidence.
+- L’article [L442-1 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) concerne les dispositions applicables à Mayotte et n'ont rien à voir avec les menaces de mise en fourrière. 
+- De plus, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique. Les dispositions de stationnement se s'appliquent **pas** aux résidences privées non ouvertes à la circulation publique comme c'est le cas de notre résidence.
 
 L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc hautement contestable. 
 
