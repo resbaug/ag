@@ -16,17 +16,17 @@ La requalification des buanderies en logements, votée lors de la dernière Asse
 
 ### ➤ Le PPRI - Plan de Prévention des Risques d'Inondation
 
-Certaines buanderies se trouvent sous le seuil d’inondation, et **ne peuvent pas être reconnues comme habitables** (en l’occurrence les buanderies des escaliers 7, 8 et 9, dont la plupart ont déjà été touchées par les inondations en 2016 et en 2021).
+Certaines buanderies se trouvent sous le seuil d’inondation, et **ne peuvent pas être reconnues comme habitables** (en l’occurrence, les buanderies des escaliers 7, 8 et 9, dont la plupart ont déjà été touchées par les inondations en 2016 et en 2021).
 
 ### ➤ Le PLU - Plan Local d'Urbanisme
 
-La reconnaissance des buanderies en tant qu'habitation est considérée comme une création de logement. 
+La reconnaissance des buanderies en tant qu'habitation est considérée comme une **création de logement**. 
 
 Or, tout nouveau logement **impose la création de nouvelles places de parking**.
 
-### Conséquences
+### Risques juridiques
 
-En faisant voter la reconnaissance des buanderies en tant qu'habitation, en violation des deux précédentes réglementations, le syndic n’a pas rempli son devoir de conseil et de prudence, alors même que les éléments ci-dessus **ont été portés à sa connaissance à maintes reprises** 
+En faisant voter la reconnaissance des buanderies en tant qu'habitation, en violation des deux précédentes réglementations, le syndic n’a pas rempli son devoir de conseil, alors même que les éléments ci-dessus **ont été portés à sa connaissance à maintes reprises** :
 - Exemple [un courrier de la mairie datant de novembre](2025-157%20Courrier%20urbanisme%20.pdf).
 
 Cette affaire est donc désormais entre les mains d’avocats spécialisés avec les **risques suivants pour la résidence** :
@@ -41,8 +41,8 @@ Cette affaire est donc désormais entre les mains d’avocats spécialisés avec
 ## 2. Vente des 17 ou 19 places de parking par tirage au sort
 
 En résolution n°30, le syndic propose :
-- de vendre **définitivement** 17 ou 19 places visiteurs 
-- de les distribuer aux propriétaires d’un lot d’habitation  
+- de vendre **définitivement** 17 ou 19 places visiteurs
+- de les distribuer aux propriétaires d’un lot d’habitation
 - de procéder à un tirage au sort si le nombre d’acquéreurs excède le nombre de places disponibles
 
 La résolution se fera en deux temps dont l'ordre est illogique mais parfaitement manipulatoire : 
@@ -50,27 +50,27 @@ La résolution se fera en deux temps dont l'ordre est illogique mais parfaitemen
 - ensuite voter la vente (majorité des 2/3)
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-Attention à ne pas vous laisser manipuler. Voter la mission d'un géomètre-expert, avant de voter la vente, ça n'a <b>aucun sens</b>. 
+Attention à ne pas vous laisser manipuler. Voter la mission d'un géomètre-expert, avant de voter la vente, ça n'a <b>aucun sens</b> mais ça vous donnera un illusion d'engagement implicite. 
 </div>
 
 ### Conséquences évidentes
 
 Si cette résolution est votée, alors :
-- certains propriétaires pourraient être définitivement privés de stationnement dans la résidence
-- d’autres propriétaires pourraient cumuler des places sans besoin réel 
-- et rien n’empêcherait la revente ultérieure de ces places à des personnes extérieures à la résidence 
+- certains propriétaires pourraient être **définitivement** privés de stationnement dans la résidence
+- d’autres propriétaires pourraient **cumuler** des places sans besoin réel 
+- et rien n’empêcherait la **revente** ultérieure de ces places à des personnes **extérieures** à la résidence 
 
-En d'autres termes, on ne résout par le problème de stationnement ; on dilue la pénurie sans s'assurer que les places restent disponibles aux résidents à termes.
+En d'autres termes, cette résolution ne résout par le problème de stationnement ; elle dilue la pénurie sans s'assurer que des places restent disponibles aux résidents à termes.
 
-Pourquoi ne pas inscrire, dans le Règlement de Copropriété, une préemption par les propriétaires sur la vente ultérieure de tout box ou place ? Cela permettrait à la copropriété de restaurer son stock de places manquantes et d'éviter à l'avenir d'aggraver la pénurie. 
+Pourquoi ne pas inscrire, dans le Règlement de Copropriété, une préemption par les propriétaires sur la vente ultérieure de tout box ou place ? Cela permettrait à la copropriété de restaurer son stock de places manquantes et ainsi d'éviter d'aggraver la pénurie à l'avenir. 
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit actuel <b>irréversible</b> et <b>préjudiciable</b> à tout résident qui se retrouverait sans solution de stationnement.
+Vendre les places visiteurs, sans création de nouvelles, rendrait le déficit actuel <b>irréversible</b> et <b>préjudiciable</b> à tout résident qui se retrouverait alors sans solution de stationnement.
 </div>
 
-### Risque juridique
+### Risques juridiques
 
-Cette décision sera contestée devant le tribunal judiciaire pour non-respect de l’équité par n'importe quel propriétaire se retrouvant sans solution de stationnement.
+Cette décision sera contestée devant le tribunal judiciaire pour non-respect de l’équité par n'importe quel propriétaire se retrouvant, à termes, sans solution de stationnement.
 
 En cas d’annulation, les investissements engagés seraient **définitivement perdus** (géomètre-expert).
 
@@ -78,40 +78,42 @@ En cas d’annulation, les investissements engagés seraient **définitivement p
 
 ## 3. Accès pompiers : une mise en conformité partielle et incohérente
 
-L’interdiction de stationner en préambule de la résolution n°30 concerne essentiellement les résidents se garant devant escaliers 7 et 8, mais évoque des raisons de sécurité incendie, alors que la difficulté majeure d’accès aux pompiers concerne surtout l’escalier 6 (impossibilité pour un camion pompier d'accéder au bâtiment).
+L’interdiction de stationner en préambule de la résolution n°30 concerne essentiellement les résidents se garant devant les escaliers 7 et 8, mais évoque des raisons de sécurité incendie, alors que la difficulté majeure d’accès aux pompiers concerne surtout l’escalier 6 (impossibilité pour un camion pompier d'accéder à l'escalier 6 d'un côté comme de l'autre).
 
-Présenter uniquement les escaliers 7 et 8 comme un problème sécuritaire apparaît **incohérent** au regard du risque plus important qui pèse sur l'escalier 6. 
+Dès lors, présenter uniquement les stationnements sur la voie de desserte des escaliers 7 et 8 comme un problème sécuritaire apparaît **incohérent** au regard du risque plus important qui pèse sur l'escalier 6 (qui n'est même pas soulevé d'ailleurs). 
 
 ### Points problématiques
 
-Pour appuyer sa menace, le Syndic utilise des textes de lois, des règlements mais hors de leur contexte : 
+Pour appuyer sa menace, le Syndic utilise des textes de lois et des règlements pour faire peur, mais oublie sciemment leur contexte d'application : 
 
-- [Le point 17](Article17.png) de l’article 9 du Règlement de Copropriété évoque l'interdiction d'encomber les entrées, les vestibules etc. Les voitures qui sont garées devant les escaliers 7 et 8 ne participent pas à ce type d'encombrement. En revanche, le même article interdit à quiconque d'utiliser les ascenseurs pour y monter ses approvisionnements. Est-ce le cas ? Evidemment non.
-- La conclusion du SDIS évoquée dans la convocation n’a pas été fournie par VAEB (aucune trace sur l’Intranet à date) et n’est donc pour l’instant que **spéculative**. De plus, le SDIS n'a qu'un pouvoir de conseil.   
-- Le règlement du 31 janvier 1986 s'applique aux résidences neuves construites à partir de 1986. Il n’est pas rétroactif et ne peut donc **pas** s’appliquer tel quel à une résidence datant de 1970. La jurisprudence est très claire à ce sujet : le Conseil d'État affirme que la non-rétroactivité des actes administratifs est un principe général du droit. [Cf. le résumé de l'arrêté du 25 juin 1948](https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/commentaire-de-texte/ce-25-juin-1948-societe-journal-aurore-720761.html)
-- L’article [L442-1 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) qui permet soi-disant d'appeler une fourrière concerne des dispositions applicables à Mayotte qui n'ont de surcroît rien à voir avec le stationnement. 
-- De plus, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique. Les dispositions de stationnement se s'appliquent donc **pas** aux résidences privées non ouvertes à la circulation publique (comme c'est le cas de notre résidence).
+- [Le point 17](Article17.png) de l’article 9 du Règlement de Copropriété évoque l'interdiction d'encomber les entrées, les vestibules etc. Les véhicules qui sont garés devant les escaliers 7 et 8 ne participent pas à ce type d'encombrement. En revanche, le même article 9 (point 17) interdit à quiconque d'utiliser les ascenseurs pour y monter ses approvisionnements. Est-ce le cas ? Evidemment non, mais ça ne gêne personne. Alors évitons les deux poids / deux mesures qui ne font que créer de la frustration et de l'animosité !
+- La conclusion du SDIS évoquée dans la convocation n’a pas été fournie par VAEB (aucune trace sur l’Intranet) et n’est donc pour l’instant que **spéculative**. De plus, le SDIS n'a qu'un devoir de conseil. 
+- Le règlement du 31 janvier 1986 s'applique aux **résidences neuves construites à partir de 1986**. Il n’est **pas** rétroactif et ne peut donc **pas** s’appliquer tel quel à une résidence datant de 1970 ; la jurisprudence est très précise à ce sujet : le Conseil d'État affirme que la non-rétroactivité des actes administratifs est un principe général du droit. [Cf. le résumé de l'arrêté du 25 juin 1948](https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/commentaire-de-texte/ce-25-juin-1948-societe-journal-aurore-720761.html)
+- L’article [L442-1 du Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) qui permet soi-disant d'appeler une fourrière concerne des dispositions applicables à Mayotte qui n'ont, de surcroît, rien à voir avec le stationnement. 
+- De plus, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux voies ouvertes à la circulation publique, ce qui n'est absolument pas le cas de notre résidence.
 
-L’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc **hautement contestable**. 
-
-Chaque copropriétaire dispose d'un droit de jouissance des parties communes conformément à leur destination. L'article 9 de la [loi du 10 juillet 1965](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051749498) est claire sur ce sujet, et la [partie II du règlement de copropriété](Partie2.png) qualifie ces voies de desserte, pas d'accès sécurité. 
+Conclusion : lL’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc **hautement contestable**. 
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-En d'autres termes, ne vous laissez pas menacer : n'importe quel résident qui serait ciblé par une mise en fourrière pour la seule raison d'être garée le long de la voie devant l'escalier 7 et 8 pourrait porter plainte contre le syndic pour abus de pouvoir / dépassement de mandat / trouble de jouissance. 
+En d'autres termes, ne vous laissez pas manipuler par des articles de loi érigés comme menace : n'importe quel résident qui serait ciblé par une mise en fourrière pour la seule raison d'être garée le long de la voie devant l'escalier 7 et 8 pourrait porter plainte contre le syndic pour abus de pouvoir / dépassement de mandat / trouble de jouissance. 
 </div>
 
 # En résumé
 
-Il est étonnant que la résolution n°30 cible principalement les résidents n'ayant pas de solution de stationnement, obligés de se garder devant les escaliers 7 et 8, au lieu de traiter structurellement le déficit de stationnement (provenant d'une transformation de buanderie en habitation, distribution de bips sans contrôle, vente de box/places à des personnes extérieures).
+Il est étonnant que la résolution n°30 cible principalement les résidents n'ayant pas de solution de stationnement, obligés de se garder devant les escaliers 7 et 8, au lieu de traiter structurellement le déficit de stationnement (provenant d'une transformation de buanderie en habitation, d'une distribution de bips sans contrôle, et de ventes de box/places à des personnes extérieures à la résidence).
 
-S’il y avait suffisamment de places dans la résidence, personne n'aurait à se garer sur des voies de desserte.
+S’il y avait suffisamment de places dans la résidence ou que le Règlement de Copropriété avait introduit un principe de préemption sur la vente des box/places, personne n'aurait à se garer aujourd'hui sur des voies de desserte.
 
-Mais plutôt que de résoudre le déficit, le syndic et le CS proposent :
+Mais plutôt que de résoudre le déficit de place de stationnement, le syndic et le CS proposent :
 - de menacer de sanctions les copropriétaires concernés (sans solutionner leur problème)
 - de vendre des places visiteurs (déjà largement utilisées) sans en créer de nouvelles
-- de financer d’autres travaux avec ces ventes (en l'occurence la rénovation énergétique plutôt que de construire de nouvelles places) 
+- de financer d’autres travaux avec ces ventes (en l'occurence la rénovation énergétique) plutôt que de construire de nouvelles places 
 
-C’est malhonnête et méprisant car celà oblige des propriétaires déjà lésées à participer plus durement que les autres à la rénovation énergétique **ou** à ne plus pouvoir se garer dans la résidence sans être montrer du doigt. 
+<div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
+En d'autres termes, soit les propriétaires déjà lésés participent plus durement que les autres à la rénovation énergétique, soit ils ne pourront plus se garer dans la résidence sans être montrés du doigt. 
+</div>
+
+C’est parfaitement malhonnête et totalement méprisant. 
 
 ---
 
