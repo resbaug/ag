@@ -90,27 +90,27 @@ Pour appuyer sa menace, le Syndic utilise des textes de lois et des règlements 
 - La conclusion du SDIS évoquée dans la convocation n’a pas été fournie par VAEB (aucune trace sur l’Intranet à ce jour) et n’est donc pour l’instant que **spéculative**. De plus, le SDIS n'a qu'un devoir de conseil. 
 - Le règlement du 31 janvier 1986 s'applique aux **résidences neuves construites à partir de 1986**. Il n’est **pas** rétroactif et ne peut donc **pas** s’appliquer tel quel à une résidence datant de 1970 ; la jurisprudence est très précise à ce sujet : le Conseil d'État affirme que la non-rétroactivité des actes administratifs est un principe général du droit. [Cf. le résumé de l'arrêté du 25 juin 1948](https://www.doc-du-juriste.com/droit-public-et-international/droit-administratif/commentaire-de-texte/ce-25-juin-1948-societe-journal-aurore-720761.html)
 - L’article [L442-1 du Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119775) qui permet soi-disant d'appeler une fourrière concerne des dispositions applicables à Mayotte qui n'ont, de surcroît, rien à voir avec le stationnement. 
-- Par ailleurs, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace, ne s'applique qu'aux **voies ouvertes à la circulation publique**, ce qui n'est absolument pas le cas de notre résidence.
+- Par ailleurs, le [Code de la Route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841273), tel qu'il est présenté ici comme une menace,  s'applique **aux voies ouvertes à la circulation publique** ou à des voies non ouvertes dans certains cas, ce qui n'est pas applicable à notre résidence.
 
-**Conclusion :** l’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc **hautement contestable**. 
+**Conclusion** : l’appel à la fourrière pour retirer un véhicule ne présentant pas de gêne sur la voie publique apparaît donc **hautement contestable**. 
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-En d'autres termes, n'importe quel résident qui serait ciblé par une mise en fourrière pour la seule raison d'être garée le long d'une voie de desserte dans une résidence privée pourrait porter plainte contre le Syndic pour abus de pouvoir / dépassement de mandat / trouble de jouissance. 
+N'importe quel résident qui serait ciblé par une mise en fourrière pour la seule raison d'être garée le long d'une voie de desserte dans une résidence privée pourrait porter plainte contre le Syndic pour abus de pouvoir / dépassement de mandat / trouble de jouissance. 
 </div>
 
 # En résumé
 
-Il est étonnant que la résolution n°30 cible principalement les résidents n'ayant pas de solution de stationnement, obligés de se garder devant les escaliers 7 et 8, au lieu de traiter structurellement le déficit de stationnement (provenant d'une transformation de buanderie en habitation, d'une distribution de bips sans contrôle, et de ventes de box/places à des personnes extérieures à la résidence).
+Il est étonnant que la résolution n°30 cible principalement les résidents n'ayant pas de solution de stationnement, obligés de se garder devant les escaliers 7 et 8 ou les trottoirs, au lieu de traiter structurellement **le déficit de stationnement** (provenant d'une transformation de buanderie en habitation et de ventes de box/places à des personnes extérieures à la résidence).
 
-S’il y avait suffisamment de places dans la résidence ou que le Règlement de Copropriété avait introduit un principe de préemption sur la vente des box/places, personne n'aurait à se garer aujourd'hui sur des voies de desserte ou des trottoirs.
+S’il y avait suffisamment de places dans la résidence, ou que le Règlement de Copropriété avait introduit un principe de préemption sur la vente des box/places, personne n'aurait à se garer aujourd'hui sur des voies de desserte ou des trottoirs.
 
 Mais plutôt que de résoudre le déficit de place de stationnement, le syndic et le CS proposent :
 - de menacer de sanctions les copropriétaires concernés (sans solutionner leur problème)
 - de vendre des places visiteurs (déjà largement utilisées) sans en créer de nouvelles
-- de financer d’autres travaux avec ces ventes (en l'occurence la rénovation énergétique) plutôt que de construire de nouvelles places 
+- de financer d’autres travaux avec l'argent de ces ventes (en l'occurence la rénovation énergétique) plutôt que de construire de nouvelles places 
 
 <div style="border-left: 4px solid #d73a49; padding: 10px 15px; background-color: #f8d7da; border-radius: 4px;">
-En d'autres termes, soit les propriétaires déjà lésés participent plus durement que les autres à la rénovation énergétique, soit ils ne pourront plus se garer dans la résidence sans être montrés du doigt. C’est parfaitement malhonnête et totalement méprisant.  
+En d'autres termes, soit les propriétaires déjà lésés participent, plus durement que les autres, à la rénovation énergétique, soit ils ne pourront plus se garer dans la résidence sans être montrés du doigt ou menacés de fourrière. C’est parfaitement malhonnête et totalement méprisant.  
 </div>
 
 ---
