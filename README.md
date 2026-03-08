@@ -9,8 +9,7 @@ Le déficit de places s’est en effet construit progressivement :
 
 **Résultat :** le nombre de véhicules a augmenté mais **aucune place supplémentaire n’a été créée** pour y faire face. 
 
-> [!CAUTION]
-> Pire, le syndic admet lui-même qu’il est **compliqué** – voire **impossible** – d’empêcher la revente future de ces places à des personnes extérieures à la résidence, ce qui aggravera d'autant plus la pénurie.
+**Pire**, le syndic admet lui-même qu’il est **compliqué** – voire **impossible** – d’empêcher la revente future de ces places à des personnes extérieures à la résidence, ce qui aggravera d'autant plus la pénurie.
 
 ---
 
