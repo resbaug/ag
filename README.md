@@ -42,7 +42,3 @@ D'ailleurs, c'est ce **qu'imposera le Plan Local d'Urbanisme** si la transformat
 ---
 
 **Pour toutes ces raisons, la vente des places de stationnement en libre accès apparaît incohérente, du moins tant que le nombre de places de stationnement ne sera pas redevenu compatible avec le nombre de résidents.**
-
-Cordialement,
-
-*Si vous ne voulez plus recevoir de message de notre part : [désinscrivez-vous]*
